@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Youtube app with comments using  youtube api and Axios to get videos and comments
+
+In the youtube.js file located in the api folder enter your api key this can be created at https://developers.google.com/youtube/v3/getting-started
+
+Thats it now you have a fully functional application
+
+Daniel Stewart
+
 
 ## Available Scripts
 
